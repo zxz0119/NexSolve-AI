@@ -61,6 +61,10 @@
 
 ## 📈 Star History
 
+---
+
+## 📈 Star History
+
 <div align="center">
   <a href="https://star-history.com/#zxz0119/NexSolve-AI&Date">
     <picture>
