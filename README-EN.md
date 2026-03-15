@@ -10,7 +10,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/zxz0119/NexSolve-AI?style=flat-square&color=DAA520)](https://github.com/zxz0119/NexSolve-AI/stargazers)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/zxz021217)
 
-[English] | [中文文档](./README-CN.md)
+[English] | [中文文档](./README.md)
 
 </div>
 
