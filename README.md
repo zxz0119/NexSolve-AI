@@ -57,6 +57,16 @@
 
 积累全球最实用的 AI 应用案例。让 AI 不再是实验室里的数字，而是帮小餐馆统计外卖单、帮物流公司优化路径的真实生产力。
 
+---
+
+## 📈 Star History
+
 <div align="center">
-  <img src="https://api.star-history.com/svg?repos=zxz0119/NexSolve-AI&type=date" alt="Star History Chart" width="75%"/>
+  <a href="https://star-history.com/#zxz0119/NexSolve-AI&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zxz0119/NexSolve-AI&type=date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zxz0119/NexSolve-AI&type=date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zxz0119/NexSolve-AI&type=date" width="80%" />
+    </picture>
+  </a>
 </div>
