@@ -1,0 +1,33 @@
+name: "🚀 Submit Pain Point (English)"
+description: Describe a pain point you encounter and let AI developers solve it
+title: "[Pain Point] Short description of your need"
+labels: ["pain-point", "needs-triage"]
+body:
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Submission Terms
+      options:
+        - label: I understand this platform is only for matching; payments and risks are my own responsibility.
+          required: true
+        - label: I understand my description and the resulting code will be public under AGPL-3.0.
+          required: true
+  - type: input
+    id: industry
+    attributes:
+      label: Industry
+      placeholder: e.g., Catering, Logistics, Content Creation...
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Description
+      placeholder: Please describe your problem in detail. (e.g., "Manual data entry is too slow, need an automation tool.")
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Info (Optional)
+      placeholder: Leave your Email, Discord, or Telegram for developers to reach out.
