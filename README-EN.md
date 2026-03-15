@@ -37,6 +37,17 @@ We bridge this gap via GitHub Issues:
 5. **Case**: Successful solutions are featured in our "Hall of Fame".
 
 ---
+### 🏷️ Label Guide
+
+We use the following labels to track the status of each pain point:
+
+- ![pain-point](https://img.shields.io/badge/pain--point-d73a4a) : **Original Requirement** (Automatically assigned via template).
+- ![needs-triage](https://img.shields.io/badge/needs--triage-e99695) : **Pending**, waiting for admin review or categorization.
+- ![in-progress](https://img.shields.io/badge/in--progress-1D76DB) : **In Progress**, a developer has claimed this and is building the solution.
+- ![solved](https://img.shields.io/badge/solved-008672) : **Solved**, the solution has been delivered. Check the Issue for details.
+- ![bounty-open](https://img.shields.io/badge/bounty--open-D4C5F9) : **Bounty Offered**, rewards provided by the requester. High priority for devs.
+
+---
 
 ## ⚖️ License (AGPL 3.0)
 
