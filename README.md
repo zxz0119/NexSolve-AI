@@ -54,6 +54,16 @@ This project is licensed under the **GNU Affero General Public License v3.0**.
 
 ---
 
+## ⚠️ Disclaimer / 免责声明
+
+- **Platform Role:** NexSolve AI is an information-sharing platform only. We do NOT participate in payments, escrow, or contract enforcement. 
+- **User Responsibility:** Users and developers are solely responsible for their interactions. We recommend using secure payment methods and conducting basic due diligence.
+- **Code Security:** Users should review any code provided before execution. We are not liable for any damages caused by the use of solutions found here.
+
+- **平台角色：** NexSolve AI 仅提供信息对接服务，不参与任何报酬结算、资金担保或合同执行。
+- **用户责任：** 需求方与开发者对彼此的交易行为负全部责任。建议通过正规第三方支付平台结算，并自行核实对方身份。
+- **安全警告：** 需求方在运行开发者提供的代码前应进行安全检查。因使用本项目中提供的方案而导致的任何损失，本项目概不负责。
+
 ## 🚀 Vision / 愿景
 Accumulate the world's most practical AI application cases and build a bridge between traditional industries and the AI era.
 积累全球最实用的 AI 应用案例，搭建传统行业与 AI 时代的桥梁。
