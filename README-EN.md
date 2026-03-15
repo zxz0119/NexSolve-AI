@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./static/logo.png" alt="NexSolve AI Logo" width="200"/>
+<img src="./logo.png" alt="NexSolve AI Logo" width="200"/>
 
 # NexSolve AI
 
