@@ -30,11 +30,11 @@ We bridge this gap via GitHub Issues:
 
 ## 🛠 Workflow
 
-1.  **Submit**: Users post structured requirements via the Issue template.
-2.  **Claim**: Developers reply "I'm working on this" and add the `in-progress` label.
-3.  **Solve**: Developers use AI tools (Cursor/Claude) to build and reply with the code.
-4.  **Reward**: Both parties negotiate and settle payments via private channels (WeChat/Alipay/PayPal).
-5.  **Case**: Successful solutions are featured in our "Hall of Fame".
+1. **Submit**: Users post structured requirements via the Issue template.
+2. **Claim**: Developers reply "I'm working on this" and add the `in-progress` label.
+3. **Solve**: Developers use AI tools (Cursor/Claude) to build and reply with the code.
+4. **Reward**: Both parties negotiate and settle payments via private channels (WeChat/Alipay/PayPal).
+5. **Case**: Successful solutions are featured in our "Hall of Fame".
 
 ---
 
@@ -56,6 +56,8 @@ This project is licensed under **GNU Affero General Public License v3.0**.
 - **Security**: Users MUST review code before execution. We are not liable for any data loss or damages.
 
 ---
+
+## 📈 Star History
 
 <div align="center">
   <a href="https://star-history.com/#zxz0119/NexSolve-AI&Date">
