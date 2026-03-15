@@ -58,5 +58,11 @@ This project is licensed under **GNU Affero General Public License v3.0**.
 ---
 
 <div align="center">
-  <img src="https://api.star-history.com/svg?repos=zxz0119/NexSolve-AI&type=date" alt="Star History Chart" width="75%"/>
+  <a href="https://star-history.com/#zxz0119/NexSolve-AI&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zxz0119/NexSolve-AI&type=date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zxz0119/NexSolve-AI&type=date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zxz0119/NexSolve-AI&type=date" width="80%" />
+    </picture>
+  </a>
 </div>
