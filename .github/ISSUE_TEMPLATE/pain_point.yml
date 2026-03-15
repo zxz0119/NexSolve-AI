@@ -1,0 +1,33 @@
+name: "🚀 痛点需求提交 / Submit Pain Point"
+description: 描述你在生活或工作中遇到的痛点 | Describe your pain point
+title: "【需求】简短的需求描述 / Short description"
+labels: ["pain-point", "needs-triage"]
+body:
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 提交须知 / Submission Terms
+      options:
+        - label: 我理解本项目仅作为撮合平台，报酬支付需自行协商风险自担。
+          required: true
+        - label: 我理解我的需求描述将以 AGPL-3.0 协议公开。
+          required: true
+  - type: input
+    id: industry
+    attributes:
+      label: 所属行业 / Industry
+      placeholder: 例如：餐饮、物流、自媒体...
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 痛点描述 / Problem Description
+      placeholder: 请详细描述你的问题。例如：我是开小餐馆的，外卖统计总出错，需要一个自动汇总工具。
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: 联系方式 (选填) / Contact Info (Optional)
+      placeholder: 留下你的邮箱或微信，方便开发者联系。
