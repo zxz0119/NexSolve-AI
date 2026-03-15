@@ -35,12 +35,17 @@
 5. **案例沉淀**：优秀的方案将进入“案例库”展示。
 
 ---
-### 🏷️ 标签说明 / Label Guide
-- `pain-point`: 待解决的原始需求（自动挂载）。
-- `needs-triage`: 等待管理员分类/核实（自动挂载）。
-- `in-progress`: 任务已被认领，正在开发。
-- `solved`: 方案已交付，需求圆满解决。
-- `bounty-open`: 此需求带悬赏，建议优先处理。
+### 🏷️ 标签指南
+
+为了提高协作效率，我们使用以下标签来标识需求状态：
+
+- ![pain-point](https://img.shields.io/badge/pain--point-d73a4a) : **待解决的原始需求**（系统根据模板自动挂载）。
+- ![needs-triage](https://img.shields.io/badge/needs--triage-e99695) : **待处理**，等待管理员进行初步核实或分类。
+- ![in-progress](https://img.shields.io/badge/in--progress-1D76DB) : **开发中**，已有开发者认领并正在编写 AI 方案。
+- ![solved](https://img.shields.io/badge/solved-008672) : **已解决**，方案已交付，点击 Issue 即可查看成果。
+- ![bounty-open](https://img.shields.io/badge/bounty--open-D4C5F9) : **带赏金**，需求方提供报酬，建议开发者优先关注。
+
+---
 ## ⚖️ 开源协议 (AGPL 3.0)
 
 本项目严格遵守 **GNU AGPL v3.0**。
