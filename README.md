@@ -11,7 +11,7 @@
 [![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/NexSolveAI)
 [![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-1092769236-blue?style=flat-square&logo=tencent-qq&logoColor=white)](https://github.com/zxz0119/NexSolve-AI)
 
-[English](./README-EN.md) | [中文文档] | [🌐 网页版广场](https://xk7yf4c2cf.coze.site/)
+[English](./README-EN.md) | [中文文档] | [🌐 网页版广场](https://xk7yf4c2cf.coze.site/)  [友情链接](https://linux.do/) 
 
 </div>
 
